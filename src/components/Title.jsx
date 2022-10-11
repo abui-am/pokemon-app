@@ -1,6 +1,6 @@
 import React from 'react';
 import { Row, Col } from 'reactstrap';
-import pokemon from '../assets/pokemon.png';
+import pokemon from './../assets/pokemon.png';
 
 const Title = () => {
   return (
