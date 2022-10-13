@@ -7,7 +7,7 @@ const Title = () => {
     <Row>
       <Col lg={12} className='mt-4'>
         <img src={pokemon} alt='pokemon' width={300} />
-        <h1>Pokemon Apps</h1>
+        <h1>Pooooooooookemmmmmmooooooooooonnnnnnnnn</h1>
       </Col>
     </Row>
   );
